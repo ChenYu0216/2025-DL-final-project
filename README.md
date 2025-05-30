@@ -10,4 +10,5 @@ ptt_crawler.ipynb為外部資料的取得，但後續我們有用人工做部分
 
 Llmma_classification.ipynb中，包含資料清理以及Llama-2-7b的量化版模型(本程式使用Hugging Face上的模型，若要使用需自行註冊取得Token)，視覺化上，本程式使用wandb，因此若需視覺化部分需登入個人帳號
 
+mistral_classification.ipynb同Llmma，也需要註冊hugging face並取得模型的存取權限，輸入到檔案中HF_TOKEN的對應位置才有辦法讓程式正常執行，wandb說明同上
 
