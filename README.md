@@ -57,6 +57,7 @@
 ## Mistral 模型實作
 
 在 `mistral_classification.ipynb` 中，實作了 Mistral 模型進行分類任務。
+模型建構參考:https://medium.com/@lukas.hauzenberger/multilabel-classification-using-mistral-7b-on-a-single-gpu-with-quantization-and-lora-8f848b5237f3
 
 **注意事項**：
 
@@ -68,7 +69,7 @@
 
 ## 注意事項
 
-- 部分外部資料需手動處理，人工過濾。
+- 部分外部資料需手動處理，人工過濾，用人為觀察對應關鍵字找到的資料是否都是災難貼文(但以我們預設的關鍵字去做，需要剔除的資料量不大)
 - 程式碼中若參考他人資料，已於註解中標明出處。
 
 ---
