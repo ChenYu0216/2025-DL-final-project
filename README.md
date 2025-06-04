@@ -73,9 +73,4 @@
 - 部分外部資料需手動處理，人工過濾，用人為觀察對應關鍵字找到的資料是否都是災難貼文(但以我們預設的關鍵字去做，需要剔除的資料量不大)
 - 程式碼中若參考他人資料，已於註解中標明出處。
 
----
 
-##  參考資料
-
-- [Kaggle: NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)
-- 其他程式碼參考各自在程式碼中有標明參考出處
