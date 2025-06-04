@@ -7,4 +7,13 @@
 ---
 
 ## 專案結構
-
+```
+2025-DL-final-project/
+├── BERT_model_classification.ipynb
+├── Llama_classification.ipynb
+├── mistral_classification.ipynb
+├── ptt_crawler.ipynb
+├── README.md
+├── .gitignore
+```
+---
