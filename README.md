@@ -56,7 +56,8 @@
 
 ## Mistral 模型實作
 
-在 `mistral_classification.ipynb` 中，實作了 Mistral 模型進行分類任務。
+在 `mistral_classification.ipynb` 中，實作了 Mistral 模型進行分類任務
+
 模型建構參考:https://medium.com/@lukas.hauzenberger/multilabel-classification-using-mistral-7b-on-a-single-gpu-with-quantization-and-lora-8f848b5237f3
 
 **注意事項**：
