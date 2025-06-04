@@ -26,7 +26,7 @@
 
 ---
 
-## 模型實作
+## BERT類模型實作
 
 在 `BERT_model_classification.ipynb` 中，實作了以下模型：
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 📄 參考資料
+##  參考資料
 
 - [Kaggle: NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)
 - 其他程式碼參考各自在程式碼中有標明參考出處
