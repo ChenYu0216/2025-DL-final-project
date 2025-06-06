@@ -23,7 +23,7 @@
 
 ##  資料探索與前處理
 
-- `ptt_crawler.ipynb`：用於爬取 PTT 上的災難相關討論，並進行初步資料清理。
+- `ptt_crawler.ipynb`：用於爬取 PTT 上的災難相關討論，並進行初步資料清理，此資料作為訓練的外部資料，嘗試強化模型的泛化能力
 - `BERT_model_classification.ipynb`：進行資料探索性分析（EDA）主要進行程式，其餘模型程式就無再進行EDA
 
 ---
