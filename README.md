@@ -12,6 +12,7 @@
 ├── BERT_model_classification.ipynb
 ├── Llama_classification.ipynb
 ├── mistral_classification.ipynb
+  ├──requirement_for_mistral
 ├── ptt_crawler.ipynb
 ├── README.md
 ├── .gitignore
